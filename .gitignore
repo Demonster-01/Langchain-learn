@@ -1,0 +1,16 @@
+# To ignore all .env files
+.env
+
+# To ignore the folder 'act/'
+act/
+
+# To ignore a specific file
+traceback
+
+# To ignore files with specific patterns (e.g., all .txt files)
+*.txt
+
+# To ignore all files named with the following pattern
+*.docx
+*.pdf
+trnaslapte pdf/
